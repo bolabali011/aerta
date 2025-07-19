@@ -13,4 +13,4 @@ export default defineConfig({
       noExternal: ['node:fs', 'node:path'],
     },
   },
-});f:\wepages\astrodoodstream\dood4593\astro.config.mjs
+});
